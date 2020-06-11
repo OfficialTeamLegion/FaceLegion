@@ -1,7 +1,8 @@
 # About FaceLegion
-[+] Facebook Hacking Tools (BruteForce)
-[+] Coded by: TheShahriarSir
+[+] Facebook Hacking Tools (BruteForce)<br>
+[+] Coded by: TheShahriarSir<br>
 [+] Team Legion - Hackers & Security Researchers
+
 # Installation
 - apt update && apt upgrade
 - pkg install git
